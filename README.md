@@ -2,6 +2,12 @@
 
 Este projeto foi criado para praticar lógica de programação em Python, gerando números de CPF válidos seguindo o algoritmo oficial dos dígitos verificadores.
 
+### 📚 Base de estudo
+
+Curso: *Curso de Python 3 do básico ao avançado - com projetos reais*  
+Instrutores: *Luiz Otávio Miranda* e *Tales Calogi Malaquias* 
+Plataforma: *Udemy*
+Adaptei o projeto com minhas próprias palavras e estrutura para praticar o que aprendi.
 ---
 
 ## Como funciona
@@ -41,3 +47,6 @@ digito_2 = digito_2 if digito_2 <= 9 else 0
 
 cpf_gerado_pelo_calculo = f'{nove_digitos}{digito_1}{digito_2}'
 print(cpf_gerado_pelo_calculo)
+
+
+
