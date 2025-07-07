@@ -2,13 +2,14 @@
 
 Este projeto foi criado para praticar lógica de programação em Python, gerando números de CPF válidos seguindo o algoritmo oficial dos dígitos verificadores.
 
-#📚 Base de estudo
+📚 Base de estudo
 
 Curso: Curso de Python 3 do básico ao avançado - com projetos reais  
-Instrutores: Luiz Otávio Miranda e Tales Calogi Malaquias 
-Plataforma: Udemy
+Instrutores: Luiz Otávio Miranda e Tales Calogi Malaquias  
+Plataforma: Udemy  
+
 Adaptei o projeto com minhas próprias palavras e estrutura para praticar o que aprendi.
----
+
 
 ## Como funciona
 
