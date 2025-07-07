@@ -5,7 +5,7 @@ Este projeto foi criado para praticar lógica de programação em Python, gerand
 ### 📚 Base de estudo
 
 Curso: Curso de Python 3 do básico ao avançado - com projetos reais  
-Instrutores: Luiz Otávio Miranda e *Tales Calogi Malaquias 
+Instrutores: Luiz Otávio Miranda e Tales Calogi Malaquias 
 Plataforma: Udemy
 Adaptei o projeto com minhas próprias palavras e estrutura para praticar o que aprendi.
 ---
